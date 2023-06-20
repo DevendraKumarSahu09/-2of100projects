@@ -1,4 +1,4 @@
-# -2of100projects
+# "Progress Bar"
 
 ## *This is a* "Progress Bar"
 
